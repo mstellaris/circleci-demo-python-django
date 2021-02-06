@@ -99,4 +99,4 @@ ENV/
 .ropeproject
 
 # VSCode settings
-.vscode
+.vscode/
